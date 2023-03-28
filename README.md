@@ -1,16 +1,7 @@
-# creditapp
+# Credit Saison App
 
-A new Flutter project.
+Screen Recoding
+https://user-images.githubusercontent.com/32995551/228171724-e136a8e4-bd70-4a86-a761-6f12740c8b89.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshot
+![Screenshot_1679991121](https://user-images.githubusercontent.com/32995551/228172072-29b65f7a-d31b-42c8-bf31-f6b81eb3121c.png)
